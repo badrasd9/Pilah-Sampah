@@ -1,0 +1,6 @@
+{
+  "name": "Pilah Sampah",
+  "description": "Game edukasi interaktif untuk belajar memilah sampah organik, anorganik, dan B3 di halaman sekolah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
